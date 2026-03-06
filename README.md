@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @antoniionavas
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Full Stack projects
-- 📫 How to reach me anavasdev@gmail.com
-- ⚡ Skills: JavaScript ES6, Git, Express.js, Node.js, React, Laravel, CSS, HTML, Bootstrap.
+- 💻 Full Stack Developer & System Administrator
+- 👀 I’m passionate about technology, especially Web Development, Systems Administration and emerging technologies
+- 🌱 Currently studying Big Data & Artificial Intelligence
+- 💞️ I’m looking to collaborate on Full Stack, DevOps or Backend projects
+- 📫 How to reach me: anavasdev@gmail.com
+- ⚡ Skills: JavaScript (ES6), Node.js, Express.js, React, Laravel, Git, HTML, CSS, Bootstrap, Linux, System Administration
