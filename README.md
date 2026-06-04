@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antoniionavas
-- 💻 Full Stack Developer & System Administrator
-- 👀 I’m passionate about technology, especially Web Development, Systems Administration and emerging technologies
+- 💻 Full Stack Developer | SysAdmin | Data & AI Specialist
+- 👀 I am a versatile tech professional bridging the gap between Systems Administration, Full Stack development, Big Data, and AI. I thrive on moving across disciplines, solving complex problems, and applying my expertise       to build custom solutions tailored to each project.
 - 🌱 Currently studying Big Data & Artificial Intelligence
-- 💞️ I’m looking to collaborate on Full Stack, DevOps or Backend projects
+- 💞️ I’m looking to collaborate on any project involving the disciplines mentioned above.
 - 📫 How to reach me: anavasdev@gmail.com
 - ⚡ Skills: JavaScript (ES6), Node.js, Express.js, React, Laravel, Git, HTML, CSS, Bootstrap, Linux, System Administration
