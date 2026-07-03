@@ -10,3 +10,4 @@
   - **Infrastructure:** Linux, System Administration, Docker.
   - **Databases:** PostgreSQL, MySQL, MongoDB.
   - **Tools:** Git, Tailwind, Bootstrap, Microsoft Fabric.
+  - **Languages:** Spanish (Native), English (B2 - Professional Working Proficiency).
